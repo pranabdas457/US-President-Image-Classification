@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+
+<title>Please Wait... | Cloudflare</title>
+  
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" />
+<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" /><![endif]-->
+<style>body{margin:0;padding:0}</style>
+
+
+<!--[if gte IE 10]><!-->
+<script>
+  if (!navigator.cookieEnabled) {
+    window.addEventListener('DOMContentLoaded', function () {
+      var cookieEl = document.getElementById('cookie-alert');
+      cookieEl.style.display = 'block';
+    })
+  }
+</script>
+<!--<![endif]-->
+
+
+    <script>
+    //<![CDATA[
+    (function(){
+      window._cf_chl_opt={
+        cvId: "2",
+        cType: "managed",
+        cNounce: "42398",
+        cRay: "71183200fd9e94c4",
+        cHash: "9ac29d69e8566d3",
+        cUPMDTk: "\/profile\/Max-Valentinuzzi-2\/publication\/320027604\/figure\/fig1\/AS:594431556206592@1518734935454\/marie-curie-with-president-Warren-G-Harding-at-the-White-House-20-may-1921-Harding.png?__cf_chl_tk=7jcNN4WMFe8hQN3FYXiX5tfijsa3GMTsWmn_EOgHdMM-1653585771-0-gaNycGzNB30",
+        cFPWv: "b",
+        cTTimeMs: "1000",
+        cLt: "n",
+        cRq: {
+          ru: "aHR0cHM6Ly93d3cucmVzZWFyY2hnYXRlLm5ldC9wcm9maWxlL01heC1WYWxlbnRpbnV6emktMi9wdWJsaWNhdGlvbi8zMjAwMjc2MDQvZmlndXJlL2ZpZzEvQVM6NTk0NDMxNTU2MjA2NTkyQDE1MTg3MzQ5MzU0NTQvbWFyaWUtY3VyaWUtd2l0aC1wcmVzaWRlbnQtV2FycmVuLUctSGFyZGluZy1hdC10aGUtV2hpdGUtSG91c2UtMjAtbWF5LTE5MjEtSGFyZGluZy5wbmc=",
+          ra: "cHl0aG9uLXJlcXVlc3RzLzIuMjcuMQ==",
+          rm: "R0VU",
+          d: "Pl80sAiJrGqmC3VGl3YKFfH7mz1g06ShbZNF1K/HthmDX9kh2023e/iqYcsZy0D8291mdFBXxy5Yo7m6+ggyd6TsbucdJYcxIY4OpspGU3BiiwDxNoL0NK5BiqGlDPll7W/cf1D7ZMAZugDNQtX8m3IK9EJ6D4aj5itiZVLMpOnA5JcOTl6EKd1RkACSTNLZBo4HQIFDT5AkBQYzN5YXNET6zmplZEizOS7RaT5IixqoqKe4raNtPZA1LUK+7ziBh+b9X8kjf18e5IlwRQn+BSFepjEVzj5kcg9LU1FR1sglalH2iKSBazyw6uaOehhUw5l+RK7ce+P++4e/jEONmJ6DMmhJwaNcE9RQA7/QHIDCrl0GTgs59N50jCsTWCkLbe0CtC8NBGOwsrA/QIvjYGHAdJzQG1EVfBgopdLvZdkBmntV6OYuRZwZAda4qR2i0wE1jmOBTPJHdlSvthpyHe+9kAmFaIjtPmLuglN61k5Mbno4VFs+HZDW0yZBv1u4PcefbjrrfD+xM4GpZ6v6K/z4k+VZ7MTRrai9JKsMVUElfUngLXiIAh7Qh+cfs7tMaTJwoj26SgbWoRyRs0U7druVkjWIPvpuZbtU2sP2fsfqUSZ4xOsHIgeWHWqyz4P18Z4fyR1sm4pY3MFX4NcpNykOYOYIfvQ1FGoayDXYpM8=",
+          t: "MTY1MzU4NTc3MS42ODUwMDA=",
+          m: "UW5fSPK5FBc/VcLWD4Xvd97Jhx42lxBtbg2U/ysSCYc=",
+          i1: "RIIgjZvDkBLrK0d7Jsh22g==",
+          i2: "g+hjBXG5iP343R2nFCbcLA==",
+          zh: "sjixqRSLa9EVXOTc7rZ+rm2ThxBuB3vWBNE2W8QzSOo=",
+          uh: "JNy/u1JaDY8l68+s834y37Qd6UIzTJLBzCkJPX4t/ps=",
+          hh: "iL/xMm/kzXFdBWMAQTIQdH+4A0b81v+3SGvFhZixdAA=",
+        }
+      };
+    }());
+    //]]>
+    </script>
+
+<style>
+  #cf-wrapper #spinner {width:69px; margin:  auto;}
+  #cf-wrapper #cf-please-wait{text-align:center}
+  .attribution {margin-top: 32px;}
+  .bubbles { background-color: #f58220; width:20px; height: 20px; margin:2px; border-radius:100%; display:inline-block; }
+  #cf-wrapper #challenge-form { padding-top:25px; padding-bottom:25px; }
+  #cf-hcaptcha-container { text-align:center;}
+  #cf-hcaptcha-container iframe { display: inline-block;}
+  @keyframes fader     { 0% {opacity: 0.2;} 50% {opacity: 1.0;} 100% {opacity: 0.2;} }
+  #cf-wrapper #cf-bubbles { width:69px; }
+  @-webkit-keyframes fader { 0% {opacity: 0.2;} 50% {opacity: 1.0;} 100% {opacity: 0.2;} }
+  #cf-bubbles > .bubbles { animation: fader 1.6s infinite;}
+  #cf-bubbles > .bubbles:nth-child(2) { animation-delay: .2s;}
+  #cf-bubbles > .bubbles:nth-child(3) { animation-delay: .4s;}
+</style>
+</head>
+<body>
+  <div id="cf-wrapper">
+    <div class="cf-alert cf-alert-error cf-cookie-error" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
+    <div id="cf-error-details" class="cf-error-details-wrapper">
+      <div class="cf-wrapper cf-header cf-error-overview">
+      
+        <h1 data-translate="managed_challenge_headline">Please wait...</h1>
+        <h2 class="cf-subheadline"><span data-translate="managed_checking_msg">We are checking your browser...</span> www.researchgate.net</h2>
+      
+      </div>
+      
+      <div class="cf-section cf-highlight cf-captcha-container">
+        <div class="cf-wrapper">
+          <div class="cf-columns two">
+            <div class="cf-column">
+            
+              <div class="cf-highlight-inverse cf-form-stacked">
+                <form class="challenge-form managed-form" id="challenge-form" action="/profile/Max-Valentinuzzi-2/publication/320027604/figure/fig1/AS:594431556206592@1518734935454/marie-curie-with-president-Warren-G-Harding-at-the-White-House-20-may-1921-Harding.png?__cf_chl_f_tk=7jcNN4WMFe8hQN3FYXiX5tfijsa3GMTsWmn_EOgHdMM-1653585771-0-gaNycGzNB30" method="POST" enctype="application/x-www-form-urlencoded">
+    <div id='cf-please-wait'>
+      <div id='spinner'>
+        <div id="cf-bubbles">
+            <div class="bubbles"></div>
+            <div class="bubbles"></div>
+            <div class="bubbles"></div>
+        </div>
+      </div>
+      <p data-translate="please_wait" id="cf-spinner-please-wait">Please stand by, while we are checking your browser...</p>
+      <p data-translate="redirecting" id="cf-spinner-redirecting" style="display:none">Redirecting...</p>
+      </div>
+  <input type="hidden" name="md" value="Pj1MvOB6bfA7YIIIiNFs8BwN3hlkC57GtbB2VXb28OM-1653585771-0-Aa3ePgxU0tVoTLCbKCihP1cOyBc2Gw9uPWs4-meUXFTxsqea6dTkYGaR8Oe6Qq_ni003ns0aQioUviVihZZX0FLkdJk9UsWRC73cuLL37WJHifhy_zknk1kpM54ZZ2ReLJswMccM9nRhD3P6LFrXIGTc2rjmo2ssSFdlrtwvTFJ63cekchiOLUZn_aQjIN2mtui0k-wW4kZZYb2l3nKniI14Ulyv-rCczBpFZbIjc9yAkzWFLErlXls2-ir5Cp9RUhpPH9JUZmc3m09CCXMSqZWXfi4xGXEumjidWEwkgolTHlRwvjFMFCsJ0GSaOO1p5Fd4oJqwVnAAqtFLn1uEFPEM7xCfrto7-MVA3RW2S5BpS6QlWqdbI07FKS2mQIFvh5ZhxhHQrQ93gZ9lSr8D4ZiR1gtVXfaybTklE89qVeT5W1OrWIMb53tRwaDltBOdpUJOCn1QoUONX9uzfO82UlPjpRJLsah0dDfCGTIsPVq44BnttlDAVUdk4W4WoXb9bzMZZ7sZMhir7camtSzxsF_gx_mSO1US-T02cfKEScp4hJCrFiBb0d3zUBgFhDnAoSSFaXzssoyZESax5jxdau10jvbGhTM9JkSN73WFOkbOG--THZRDf1KAHuSDsM7LYAnB-wy_x_Q3dlDSPROs-hOMaQLFQ5V1J52R9BaBBU1rVOcEyRWufH6Cg0Jpock7QmSvYIED2V_vqvDTjHSa_TZiZ7SR5H-z4yyZ3N4d60NvBeAowJ6aWJKg1enTS3DW2hU51EfDuZWKWlxBky-2TKqU0rorq-mSUuhC34oC22DJO_NgT7k_l7X8w5CQN1eH9KFlkSSP_9zdafZ0BCum3JztQtejQqh_7BWs9-iUI2hqavi2d7yrxrYp5wgjDeQQensK1hG0QtQPqSr8izH--P2iD-YUgn26I-weziQpebwD5lH-waSdR6CjcFH3L7nX5jIW5jePXojumloqtFW3FijX2a_V-Elq4dvAFZrRFOxMC0U2fwApWUDZOvPrrrR0eKDq5jl6WvG1wjqLVcaHIW7zYw9trI5gDXbxCcJ02xAgZ9p_rnUiCP-JG4gD2IYSUBU6ElOQ0EPbpyCFaKJg711oaaeCzQWQVcbZEMDiTRVB9cHW0xV4-u0Y-nx5zT65eUwjSU27hypL7iV7KwXb7QkZdWLhbIVLsGBH8OhaQwQodVG2ApBQpjpZ0rzLVQvRsMNL5yy764ovudzrkKEJRG5yhXMd8E-B18JC3KowdEAOFfVqd2xVr5NLIxx0HQ-2cczXA_sqRe7yBCDfZlBbJ_yi_rjj6r7RWbmucdI3Kvtwijk7rUzBl7qgDyM-IyaOEQ" />
+  <input type="hidden" name="r" value="jf4YRtRFEw9.LsbyaJjaepc8JZ7R7QK2t82_lA_gTdc-1653585771-0-AQLI9fVf0voBViU0mhbx+2faxRYdznJrf28QGLE5ISDjhWjv9uncdk0wqjUyTQ/vDEcb2pE5d5eFrJEcDz6xrxLWRtUCcRUPfnWcY/5u2cqFnXixrU+ekccCWAB725WjwcH6EsWatEptAAr/soQT/cLYpdo6Y/zHT72DeYoU7naDydsgnYEqG7+dXM3/GfF6k4Lx5VbweY3OxiwTz3lOm5N0ebstr14sf2GHHFLthg+A2LqqPomftxZIfwVg27xghqsujeJykJWPTRK1IpYrOY/woMlMCp9fRpuZ8lzckdY0z4jLWUqamoSneidN/+M77bZTKD/szLgbuhEHr626yBuw7G8IDXcTXObqNDVFyZTq7f75bTFghMLkLTXPanjuyboL4OPVBMH+xhZIXfsBUG1+MXT4/MEAoHiR0F9G6VnssfQVAjfPffqCz+EnFz5RcepspZE+fCrqc4fcp6fmtWhaxh2ttH5x0CQQZnqHdpvQJIbwJP160txOYCWFgGZR4zcnqxHVfuQLKNsMxwVLMCUYZn5C340CWHMZk9eoYvbzlSyLxrdVdLmXY+D8nOiw8BYt+5mPsZHd+RtIbkyjZSQYaG2pSjJI8qylfskWQ8a+jYHa0XCaqX0lDZPzLIir5zrq+B1Ibich981PyQzcJjXjOTKti5Jf29Oecpa1wFFW+C9eviB3KMsYfyT8Gxdffkfx4s+kG0HCabyoSdyax+pM21Md0BYyV7afS+Hlo2Cz77+aRTRREgx7kRWm8RTRykMC7V39tAyQlVCgcDQreWcPm8e0DRdby+vHFZegiNVhwLScRCJrTwTbZ0Hy2ieKv3mp+ZSBkasW+Dppfm9lDTFxk2R+40ApiF8GvFEJ2Ay9UpFzeEKh8WCfSZtXo0wDZDeHA7be+2CYNzxPDPtJ1d3/zeODW1c+VQ3RCUvF/etj/+MUaZR9b84X/ud23YRfayBZ0uY85qz6GFdpWA4G9Y7YwW7FgMTrlBu5zP0YuB1Px6ChOKzM3ipMkNUFcXRpPMjP3gAp8l1vqhorrrNWiK+h/FiGxGJngUqc+Y75ewd98oY3pxeqxFPHHW3N9OxwGqP2Zs6JtFWIqsFg8uIRMZRH94HLEQZwpVjRjDOsOs71pdZSUuxqtsIW0eI077c9paffu71u0FkaTsAcQeaeuu2ipLG6yTSkCHO/HQND0xbP6FUluS0igCc2+N9dl83kn3muRzPyQ+6KO2+//SKD+9z4vqcguuwJsdCWnqxUya0cxdulNzvQ4QsjFu/+g5SeQXZhiQE0VaNHdLD9hDs36nETaiDni+o6CTzMqZlYZmyGgyaVytutIB1F4aLKXyAk4nN0yD/V8xRqjxytzuSP4QS/JwtQg8GC6F1ilelEOh1YV9rmj8EaWOlSgh1nuqky5zWv9VgMrCHlsvBrA5cg2ZNl7Df3PIZIuu4nTGr/nyF5PggpsqV9ltQ+u0J2iq1vqIAhCtVxvjuL+XT0D0nfbR6f9cN7xLyiSFd/DeIhklK5sZCNJqh6s+QVDg32IWItzwe0s6JPKjbAoZOhLVuMmS0CbyTLe0cvW3KaGm/fVIQEnUoNGFH02eeW2iv/idx6ydLLAOdC+up5jbGG7idBOdTU4V3/GeF8xcTAtuVQUEhx607Y3nmlIh2SUHjqL0lLCxK/Zog+rjdBFdobYU+8VG2yxKp0A0hi/n+41S0N2ewF8QPo6IsvYYN/BJmZ9L/2r29fSkASgXDf3lLW+VL4Zsnqj7NmFWsEiZPNAFmiFTLgDayVdOuAVw5PhL5N8ZGHeownXClTY5E7iu3Eb9243odphsPTBMb51TPp8/PxelJlgWJCq24UqzMvM3Tj8BoDVw==">
+  <input type="hidden" name="vc" value="d68507d056ebdacecd08b8de82099815">
+  <noscript id="cf-captcha-bookmark" class="cf-captcha-info">
+  <h1 data-translate="turn_on_js" style="color:#bd2426;">Please turn JavaScript on and reload the page.</h1>
+  </noscript>
+    <div id="no-cookie-warning" class="cookie-warning" data-translate="turn_on_cookies" style="display:none">
+      <p data-translate="turn_on_cookies" style="color:#bd2426;">Please enable Cookies and reload the page.</p>
+    </div>
+  <script>
+  //<![CDATA[
+    var a = function() {try{return !!window.addEventListener} catch(e) {return !1} },
+      b = function(b, c) {a() ? document.addEventListener("DOMContentLoaded", b, c) : document.attachEvent("onreadystatechange", b)};
+      b(function(){
+        var cookiesEnabled=(navigator.cookieEnabled)? true : false;
+        if(!cookiesEnabled){
+          var q = document.getElementById('no-cookie-warning');q.style.display = 'block';
+        }
+      });
+  //]]>
+  </script>
+  <div id="trk_captcha_js" style="background-image:url('/cdn-cgi/images/trace/captcha/nojs/h/transparent.gif?ray=71183200fd9e94c4')"></div>
+</form>
+  <script>
+    //<![CDATA[
+    (function(){
+        var isIE = /(MSIE|Trident\/|Edge\/)/i.test(window.navigator.userAgent);
+        var trkjs = isIE ? new Image() : document.createElement('img');
+        trkjs.setAttribute("src", "/cdn-cgi/images/trace/managed/js/transparent.gif?ray=71183200fd9e94c4");
+        trkjs.id = "trk_managed_js";
+        trkjs.setAttribute("alt", "");
+        document.body.appendChild(trkjs);
+        var cpo=document.createElement('script');
+        cpo.type='text/javascript';
+        cpo.src="/cdn-cgi/challenge-platform/h/b/orchestrate/managed/v1?ray=71183200fd9e94c4";
+        
+        window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;
+        window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, -window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;
+        if (window._cf_chl_opt.cUPMDTk && window.history && window.history.replaceState) {
+          var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;
+          history.replaceState(null, null, "\/profile\/Max-Valentinuzzi-2\/publication\/320027604\/figure\/fig1\/AS:594431556206592@1518734935454\/marie-curie-with-president-Warren-G-Harding-at-the-White-House-20-may-1921-Harding.png?__cf_chl_rt_tk=7jcNN4WMFe8hQN3FYXiX5tfijsa3GMTsWmn_EOgHdMM-1653585771-0-gaNycGzNB30" + window._cf_chl_opt.cOgUHash);
+          cpo.onload = function() {
+            history.replaceState(null, null, ogU);
+          };
+        }
+        
+        document.getElementsByTagName('head')[0].appendChild(cpo);
+    }());
+    //]]>
+    </script>
+
+
+              </div>
+            </div>
+
+            <div class="cf-column">
+              <div class="cf-screenshot-container">
+              
+                <span class="cf-no-screenshot"></span>
+              
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="cf-section cf-wrapper">
+        <div class="cf-columns two">
+          <div class="cf-column">
+            <h2 data-translate="why_captcha_headline">Why do I have to complete a CAPTCHA?</h2>
+            
+            <p data-translate="why_captcha_detail">Completing the CAPTCHA proves you are a human and gives you temporary access to the web property.</p>
+          </div>
+
+          <div class="cf-column">
+            <h2 data-translate="resolve_captcha_headline">What can I do to prevent this in the future?</h2>
+            
+
+            <p data-translate="resolve_captcha_antivirus">If you are on a personal connection, like at home, you can run an anti-virus scan on your device to make sure it is not infected with malware.</p>
+
+            <p data-translate="resolve_captcha_network">If you are at an office or shared network, you can ask the network administrator to run a scan across the network looking for misconfigured or infected devices.</p>
+            
+              
+            
+          </div>
+        </div>
+      </div>
+      
+
+      <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+  <p class="text-13">
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">71183200fd9e94c4</strong></span>
+    <span class="cf-footer-separator sm:hidden">&bull;</span>
+    <span class="cf-footer-item sm:block sm:mb-1"><span>Your IP</span>: 2405:201:8018:a88b:b4cc:af7d:3dc8:d6cc</span>
+    <span class="cf-footer-separator sm:hidden">&bull;</span>
+    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
+    
+  </p>
+</div><!-- /.error-footer -->
+
+
+    </div>
+  </div>
+
+  <script>
+  window._cf_translation = {};
+  
+  
+</script>
+
+
+</body>
+</html>
